@@ -49,4 +49,4 @@ for file in os.listdir('./cogs'):
         client.load_extension(f'cogs.{file[:-3]}')
 
 keep_alive()
-client.run('ODkzNDQzMzc0OTIzNzg4Mjg4.YVbh-w.-Dum-a1IMOQcyx8TenE8ZFfyJz0')
+client.run('')
